@@ -1,2 +1,5 @@
-# hyperblog
-para curso de platzy
+Hyperblog
+Platzi esta good
+Tratando de entender github
+Cuidadito noma
+Ojitoooooss 
